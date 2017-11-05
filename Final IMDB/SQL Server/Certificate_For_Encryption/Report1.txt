@@ -1,0 +1,8 @@
+Configuring...
+
+- Create New profile 'IMDBAdministrator' (Success)
+
+- Add account 'IMDBAdmin' to profile 'IMDBAdministrator' with priority '1' (Success)
+
+
+
